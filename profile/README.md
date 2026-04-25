@@ -1,3 +1,13 @@
+## ⚠️ Licensing Notice
+
+This project is derived from the Sandbox framework, which was publicly released.
+
+All original rights remain in effect.
+
+This project is not affiliated with Mythic Framework.
+
+No external license may override the original public release of Sandbox-derived code.
+
 ![Logo](https://i.ibb.co/Tm01NWq/banner.png)
 # Sandbox RP
 This is a heavily modified version of Mythic Framework for Sandbox RP. This is a custsom framework that uses a component system, all UI's are built in React. This codebase is being released with the full permissions of the original Mythic Framework authors Alzar & Dr Nick

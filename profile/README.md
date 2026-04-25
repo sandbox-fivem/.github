@@ -1,12 +1,15 @@
-## ⚠️ Licensing Notice
+## :warning: Framework Notice
 
-This project is derived from the Sandbox framework, which was publicly released.
+This project is the official continuation of the Sandbox framework.
 
-All original rights remain in effect.
+Sandbox was released for public use and remains publicly usable.
+
+This repository:
+- Preserves that openness
+- Protects Boom-authored contributions
+- Rejects attempts to retroactively restrict shared-origin code
 
 This project is not affiliated with Mythic Framework.
-
-No external license may override the original public release of Sandbox-derived code.
 
 ![Logo](https://i.ibb.co/Tm01NWq/banner.png)
 # Sandbox RP
